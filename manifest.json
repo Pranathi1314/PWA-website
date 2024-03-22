@@ -1,0 +1,17 @@
+{
+    "name": "Your Ecommerce PWA",
+    "short_name": "Ecommerce PWA",
+    "description": "An ecommerce Progressive Web App for selling laptops.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#333333",
+    "icons": [
+      {
+        "src": "logolaptop.jpeg",
+        "sizes": "211x148",
+        "type": "image/png"
+      }
+    ]
+  }
+  
